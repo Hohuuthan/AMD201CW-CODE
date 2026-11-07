@@ -198,3 +198,5 @@ dotnet ef migrations add TenThayDoi -o Data/Migrations
 ```
 
 Commit cả thư mục `Data/Migrations`. Người khác pull về chỉ cần `dotnet run`, bảng tự cập nhật.
+
+## Khi quên mật khẩu mã sẽ được trả về ở terminal dotnet
